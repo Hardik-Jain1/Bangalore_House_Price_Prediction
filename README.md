@@ -5,6 +5,7 @@ Despite this, we do not have accurate measures of house prices based on the vast
 Proper and justified prices of properties can  bring in a lot of transparency and trust back to the real estate industry, which is very important for most consumers especially in India.
 ## Objective:
 ![image](https://user-images.githubusercontent.com/100846110/185211556-896bc4d7-71f6-4690-837a-d7e3e6b4b905.png)
+
 The goal of this project is to predict house prices in Bengaluru city based on some features such as location, size/area , number of bedrooms and number of bathrooms.
 We are using machine learning algorithm to create a predictive model.
 ## Dataset:
