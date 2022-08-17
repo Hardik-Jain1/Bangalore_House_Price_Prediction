@@ -1,4 +1,9 @@
 # Bangalore_House_Price_Prediction
+## Objective:
 The goal of this project is to predict house prices in Bengaluru city based on some features such as location, size/area , number of bedrooms and number of bathrooms.
-![image](https://user-images.githubusercontent.com/100846110/185201678-d17d76f9-a5dd-43c9-950b-8b6d648129ae.png)
+We are using machine learning algorithm to create a predictive model.
+## Dataset:
+Bengaluru house price data set is used from Kaggle to create the model.
+Link: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
 
