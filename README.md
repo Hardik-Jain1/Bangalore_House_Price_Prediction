@@ -13,7 +13,7 @@ The goal of this project is to predict house prices in Bengaluru city based on s
 We are using machine learning algorithm to create a predictive model.
 ## Dataset:
 Bengaluru house price data set is used to create the model.
-##OSEMN Pipeline:
+## OSEMN Pipeline:
 
 I’ll be following a typical data science pipeline, which is call “OSEMN”-
 
