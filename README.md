@@ -25,7 +25,7 @@ I’ll be following a typical data science pipeline, which is call “OSEMN”-
 
 4.) Modeling the data will give us our predictive power.
 
-5.) INterpreting the data is last. With all the results and analysis of the data, what conclusion is made? What factors contributed most to employee turnover? What relationship of variables were found?
+5.) INterpreting the data is last. With all the results and analysis of the data, what conclusion is made? What relationship of variables were found?
 
 
 
